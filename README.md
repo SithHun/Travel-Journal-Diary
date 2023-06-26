@@ -17,6 +17,8 @@ A travel journal app that saves your favorite travel memories. Add points of int
 
 - [Usage](#usage)
 
+- [Deployed APP](#deployed-application)
+
 - [Credits](#credits)
 
 - [License](#license)
@@ -65,6 +67,14 @@ Third party assets used in this project include:
 - [Glide.js](https://glidejs.com/)
 - [Feather Icons](https://feathericons.com/)
 - [Google Fonts](https://fonts.google.com/)
+- [ExpressJS](https://www.npmjs.com/package/express)
+- [bCrypt](https://www.npmjs.com/package/bcrypt)
+- [MySQL2](https://www.npmjs.com/package/mysql2)
+- [Handlebars](https://www.npmjs.com/package/handlebars)
+- [NodeJS](https://nodejs.org/en)
+- [Express-Session](https://www.npmjs.com/package/express-session)
+- [Connect-Session](https://www.npmjs.com/package/connect-session-sequelize)
+
 
 ## License
 
