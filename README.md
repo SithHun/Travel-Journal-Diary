@@ -37,20 +37,20 @@ A travel journal app that saves your favorite travel memories. Add points of int
 
 ## Screenshot / Video
 
-![Home Screen](./assets/images/images-top.png)
-![Profile](./assets/images/profile-with-add.png)
+![Home Screen](./assets/images/homepage.png)
+![Trip Planner](./assets/images/tripplanner.png)
 ![Stories](./assets/images/stories.png)
-![Home Screen](./assets/images/trip-search.png)
+![Story](./assets/images/story.png)
+![Profile](./assets/images/profile.png)
+![Login/Logout](./assets/images/login.png)
 
-![video](./assets/images/)
-
-[Link to the deployed Heroku App](https://travel-journal.herokuapp.com/)
+*[Link to the deployed APP on Heroku](https://travel-journal.herokuapp.com/)*
 
 ## Contributing
 
 This project was built in collaboration with:
 
-- [Sith Sun](https://github.com/SithHun)
+- [Sith Hun](https://github.com/SithHun)
 - [Allison Tune](https://github.com/amtune)
 - [Nina Sandler](https://github.com/antigravityrunner)
 - [Chris Chorney](https://github.com/ckc2007)
@@ -59,14 +59,10 @@ Third party assets used in this project include:
 
 - [Sequelize](https://www.npmjs.com/package/sequelize)
 - [Multer](https://www.npmjs.com/package/multer)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 - [Glide.js](https://glidejs.com/)
 - [Feather Icons](https://feathericons.com/)
 - [Google Fonts](https://fonts.google.com/)
-
-Tutorials used in this project include:
-
-- ["Image / File Upload On Node Sequelize...Multer" by Great Adib](https://www.google.com/search?sxsrf=APwXEdd_5NYqHYZJ0dpjiUC_PNZlgV1P7A:1685826967600[…]rnsgqj_AhXsFFkFHZnnD9sQBSgAegQIExAB&biw=1810&bih=1006&dpr=0.9)
 
 ## License
 
@@ -77,4 +73,4 @@ This project is licensed under the MIT license.
 Please direct questions to the owner of this repository at sithsun@gmail.com
 
 Owner GitHub page:
-[SithHun](https://github.com/SithHun)
+[Sith Hun](https://github.com/SithHun)
