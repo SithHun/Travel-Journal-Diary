@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nina Sandler",
+    "email": "nina@gmail.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Allison Tune",
+    "email": "allison@gmail.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Chris Chorney",
+    "email": "chris@aol.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Sith Sun",
+    "email": "sith@gmail.com",
+    "password": "password1234"
+  }
+]
